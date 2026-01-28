@@ -1,0 +1,305 @@
+Course Syllabus
+Updated for Spring 2026
+
+Programming: PHP and MySQL
+
+CSC211, 3 Credits, CRN | Online Format
+
+Spring 2026 1st 8 Weeks | Start 1-19-2025 thru 3-15-2025 
+
+Description: Principles and techniques of developing small to medium scale database applications, and creating web databases that are accessed by Web pages.
+
+Prerequisites: CSC 105 (may not be taken concurrently) and CSA 282 (may be taken concurrently)
+
+ 
+
+Instructor Information
+Contact Information:
+
+Instructor:
+
+Michael Holmes
+
+Office Location:  
+
+          
+
+Prescott Campus
+
+Building 19, RM 208
+
+Office Hours:
+
+Tuesday 10:30 am to 1pm
+
+Thursday 10:30am to 1pm
+
+Appointment Available by Request
+
+Phone: 
+
+928 776-2198
+
+Email address: 
+
+Michael.Holmes@yc.edu
+
+BEST FORM OF CONTACT IS THROUGH CANVAS IN-BOX
+
+**Office Hours are subject to change, please verify times and days with the instructor.  Appointments are available outside regular posted hours.  
+
+Communication Policy: You may contact me via email or the Inbox tool in Canvas. I will respond to you within 48 hours. Please note that my typical reply time will be sooner, but this is the longest time you should expect a response. You are welcome to call me; however, the response time may be slower than by email or Canvas.  When communicating about this class, please use Canvas' Inbox. I will be available for students during scheduled student hours as stated above. I will also spend time each week facilitating discussions/lectures about course content, providing substantive feedback on assignments, responding to questions about the course, and posting announcements pertaining to the course content.
+
+General Course Information
+
+Textbook/Software/Hardware Requirements: 
+
+This book will be used for reference:
+
+image.png	
+PHP and MySQL Web Development
+Fifth Edition 
+By Luke Welling and Laura Thompson
+ISBN-10 : 9780321833891
+Though not listed to have online, we will take information from this book as well:
+
+isbn-13 978-0-134-29125-3  -- isbn-10 0-134-29125-5
+
+I will have scanned PDF versions of this book but you might like to obtain a hard copy:
+
+cover
+
+Technology Assistance:
+
+www.servicedesk@yc.edu Phone: 928-776-1234 (Prescott) 928-634-1234 (Verde Campus)
+
+Windows, Linux or IOS based Computer  (Windows Preferred/Supported)
+
+Course Content:
+
+Programming concepts
+Connecting to a MySQL database
+Formatting results
+User-driven queries
+Writing to Web databases
+Validation
+Keeping state
+Session management
+Protecting data
+Learning Outcomes:
+
+Demonstrate use of programming language by creating error free Web sites. 
+Identify language syntax. 
+Compose web pages for upload.
+Prepare a MySQL database.
+Identify design principles. 
+Assessment: Project Based
+
+Assignments/Labs/Quizzes 1900
+Discussions/Attendance 300 
+Final Project 200
+Total Points Possible 2400 (subject to change)
+Due Dates / Late Work: All course activities have set due dates and MUST be submitted as indicated on or before that date. If work is not submitted by the due date, students will receive a zero for that assignment or quiz, exceptions are noted below.  
+
+Work that is late up to 14 calendar days from the due date will be assessed a 15% late penalty. Work beyond 14 calendar days or after the posted cutoff date will not be counted.  It is strongly encouraged not to fall behind since weeks build upon the following week’s work. Work late more than 14 calendar days will not be accepted. No work will be accepted after the last day of class.
+
+Assignment Grading Policy:  All coursework grading and feedback will be completed and posted in Canvas 10 days or less after the due date.  Should the student find an ungraded assignment that falls outside this time frame, it is their responsibility to notify the instructor within 30 days to receive credit.
+
+Assignment Submission & Format: Assignments will be accessed through Canvas and turned into Canvas only. Emailed assignments are not considered a method of turning in an assignment.
+
+Grading Criteria Standards:
+
+Grade Earned
+
+Performance
+
+(90% or better) A
+
+Excellent
+
+(80% or better) B
+
+Good
+
+(70% or better) C
+
+Average
+
+(70% or Better) S
+
+Satisfactory
+
+(60% or Better) D
+
+Unsatisfactory
+
+(<60%) F
+
+Failing
+
+(<60%) U
+
+Unsatisfactory
+
+Total points 2400 (subject to change)
+
+A course completed with a grade of A, B, C, or S fulfills the prerequisite requirement for another course. A maximum of 12 credit hours of S grades may be applied to a degree or certificate program. Grades of S are not an option towards completion of an AGEC (Arizona General Education Curriculum) certificate. A course completed with a grade of D, F, or U does not fulfill the prerequisite requirement for another course and may not be applied to a degree or certificate.  Please verify this information with your advisor.
+
+S/U (Pass or Fail) Final Grades: You must inform the Instructor by the end of the first week.  Incompletes: An Incomplete may be granted if you are no more than one week behind on your work with at least a “C” average and a documentable emergency arises that prevents the completion of the final exam and/or Business Plan. 
+
+Institutional Policies and Instructor Procedures
+
+Syllabus Information: Students are responsible for understanding and adhering to the material presented in this syllabus.  The instructor may update the syllabus at any time during the course.
+
+Student EMAIL: Yavapai College provides enrolled students with an official username@scholar.yc.edu email address. Yavapai College requires enrolled students to utilize the YC email system for official college-related communications. Students are expected to check their Yavapai College email account as directed by their instructor.  For class specific communications, please use the Canvas Inbox.
+
+ATTENDANCE: Students are expected to attend and participate in all class meetings, group activities, laboratories, and field trips.  A student who expects to be absent due to a school-sponsored activity must make prior arrangements with the instructor.  A student who does not adhere to the instructor’s and College’s attendance requirements may be dropped/withdrawn from the course as defined in the Yavapai College General Catalog.
+
+Call or e-mail if you will not be in attendance. No-shows will be dropped. Tardiness is discouraged.  Excess Tardiness (more than 2) or being Tardy beyond 5 minutes is counted as an absence.  It is the student's responsibility to initiate a withdrawal from class should the need arise. I will withdraw you if you accumulate an absence within the first ten (10) days of class.  Official absences are only valid with proper documentation by a certified doctor, approved by the instructor or campus administration (see academic complaint form below).  Unofficial and Official absences are not eligible to earn attendance participation points.  Attendance participation points are not awarded if you leave class early.  Official absences can take the place of mandatory seat time.
+
+No class points will be awarded if you are tardy or leave early, no exceptions.
+
+FOOD/DRINKS:  Food is not allowed in the computer labs.  Drinks may be brought but only in spill-proof containers - No alcohol allowed on campus
+
+COVID-19: All students need to be aware of and comply with the safety and operational protocols for COVID-19 while on Yavapai College’s campuses or centers. Safety protocols can be found at 
+this link: https://www.yc.edu/v6/college-police/covid-19/reentry.
+
+COURSE WITHDRAWAL: A student-initiated withdrawal deadline is established by the college. If a student has not withdrawn from a class by the deadline, the student will receive the letter grade earned in the course at the end of the semester; earned grades will be posted on the student’s permanent record. Remember, instructors cannot withdraw students.  If a student has not withdrawn from a class by the deadline, the student will receive the letter grade earned in the course at the end of the semester; earned grades will be posted on the student’s permanent record.  For specific dates, see Academic Calendar.  Active participation in an online class is a measurable activity that requires a student to engage in materials and complete and submit some type of assignment.  Academic Calendar
+
+ACADEMIC INTEGRITY: Honesty in academic work is a central element of the learning environment. It is expected that students will submit their own work. The presentation of work not created by the student as one's own or the act of seeking unfair academic advantage through cheating, plagiarism, the prohibited use of generative AI, or other dishonest means are violations of the college’s Student Code of Conduct.
+
+Definitions of plagiarism, cheating, and violation of copyright and penalties for violation are available in the Yavapai College Student Code of Conduct Links to an external site.Links to an external site.
+
+STUDENT CODE OF CONDUCT: Respect for the rights of others and for the college and its property are fundamental expectations for every student.
+
+The Student Code of Conduct outlines behavioral expectations and explains the process for responding to allegations of student misconduct.
+
+Students are expected to respond and write in a respectful, professional, and appropriate manner in all forms of communication and when activities are assigned to create scenarios, discuss opinions, present on a selected subject, or post to the web board. Inappropriate language or objectionable material will not be tolerated and could result in disciplinary measures and/or a failing grade for the class.
+
+Safe Classroom Environment Statement: Disagreement within the classroom does not equal disrespect, you are encouraged to have different points of view, different opinions and values, however, it is required that students monitor their language within discussions. Racist, sexist, or homophobic language will not be tolerated. Consult the student handbook for college policies regarding these types of behavior.
+
+CIVIL DIALOGUE STATEMENT: Regardless of venue or delivery method, faculty must ensure and maintain an environment appropriate for higher education. To promote a positive educational experience, appropriate and civil communication is an expectation of all students. All communication must remain respectful. Language or behavior that is threatening, intimidating, harassing, defamatory, libelous, or obscene is unacceptable.  Failure to abide by these standards may result in disciplinary measures. Please see Public Access and Expression on College Property (10.10)Links to an external site.Links to an external site. for further detail.
+
+ETIQUETTE:
+
+Etiquette refers to the generally accepted rules of behavior for communicating in both the face-to-face and the online environment (known as netiquette).
+Be professional and careful with what you say or post in class. Express your thoughts clearly and concisely.
+Be careful when using sarcasm and humor. Communications, especially online, are very impersonal and others may take your words as criticism.
+Be courteous and respectful of other people. If you use abusive or offensive language, you may potentially be removed from your course.
+Use common sense - is this message something that you want to be said or sent to you?
+ACADEMIC COMPLAINT FORM: A student may appeal an academic or instructional decision by faculty if s/he deems the decision to be made in error. The appeal must be made in a timely manner in accordance with established procedures.  Academic Complaints (3.16)
+
+STUDENT BASED NEEDS: Yavapai College recognizes that access to basic needs such as food and safe shelter are vital to a successful academic experience. Students who have difficulty affording groceries or accessing sufficient food to eat, lack a safe and stable place to live, have difficulty affording required items for classes, or are without health insurance may contact the Strong Foundations program for basic needs support services.
+
+ACCEPTABLE USE: Yavapai College technological equipment and resources must be used in accordance with the Technology Resource Standards (5.27)Links to an external site., Copyright Use (2.28)Links to an external site. and Peer-to-Peer (P2P) File Sharing (5.26)Links to an external site. policies.  Use of Yavapai College equipment and resources to illegally copy, download, access, print or store copyrighted material or download pornographic material is strictly prohibited. For example, file swapping of copyrighted material, such as music or movies is strictly prohibited. Users found to violate this policy will have their privileges to use Yavapai College technological equipment and resources revoked. 
+
+MOBILE DEVICES: Yavapai College is committed to providing a quality learning environment.  All cell phones and mobile devices must be placed in silent mode while in classrooms, computer labs, library, learning center, and testing areas.  Cell phones must be used outside these facilities. Links to an external site.Links to an external site.
+
+SMOKING AND TOBACCO USE: Yavapai College is committed to limiting exposure to the harmful effects of primary and secondary smoke to campus students, visitors, and employees. In order to reduce the harmful effects of tobacco use and to maintain a healthful working and learning environment, the College prohibits smoking, including vaping, on all campuses except in designated smoking areas as per the Smoking & Tobacco Use Policy (5.35).Links to an external site.
+
+DRUG FREE ENVIRONMENT: Yavapai College’s policy is to provide an environment free of drugs and alcohol. The use of il­legal drugs and abuse of alcohol pose significant threats to health and can be detrimental to the physical, psychological, and social well-being of the user and the entire Yavapai College community, and is prohibited. Campus Safety will be notified if a student exhibits an impaired state in the classroom environment.
+
+TTITLE IX - NOTICE OF NONDISCRIMINATION: Yavapai College does not discriminate on the basis of sex and prohibits sex discriminations in any education program or activity that it operates, as required by Title IX and its regulations, including in admissions and employment.
+
+To report information about conduct that may constitute sex discrimination or make a complaint about sex-based harassment, which also includes acts of sexual violence such as rape, sexual assault, sexual battery, sexual coercion, unwanted touching, dating/relationship violence, and stalking, please refer to Title IX and Preventing Sexual Harassment.   
+
+DISABILITY RESOURCES: Disability Resources ensures qualified students with disabilities equal access and reasonable accommodations in all Yavapai College academic programs and activities. YC supports disability and accessibility awareness and promotes a welcoming environment to all. The Americans with Disabilities Act of 1990 and Section 504 of the Rehabilitation Act of 1973 prohibits discrimination on the basis of disability and requires Yavapai College to make reasonable accommodations for those otherwise qualified individuals with a disability who request accommodations.  (http://www.yc.edu/disabilityresourcesLinks to an external site.)
+
+Yavapai College is committed to providing educational support services to students with documented disabilities. Accommodations for a student must be arranged by the student through Disability Resources by phone 928.776.2085 or email disabilityresources@yc.edu.
+
+GENERATIVE ARTIFICIAL INTELLIGENCE: The World Economic Forum defines generative AI as “a category of artificial intelligence (AI) algorithms that generate new outputs based on the data they have been trained on. Unlike traditional AI systems that are designed to recognize patterns and make predictions, generative AI creates new content in the form of images, text, audio, and more.”
+
+Some examples of generative AI tools include but are not limited to: ChatGPT, Gemini, Microsoft Copilot, Stable Diffusion, Grammarly AI Writing Assistant, and Adobe Firefly.
+
+No Generative Artificial Intelligence (AI) Allowed
+
+In this class, all work submitted must be your own. The use of generative AI tools will be considered academic misconduct and will be treated as such. If you are unsure if the tool or website you are using is a generative AI tool, please contact the instructor for further clarification before using the tool or website.
+
+Student Support Services
+
+YC Helpdesk (Service Desk): If you are having difficulties accessing your online course but have access to other web pages on your computer, you may call the Yavapai College Help Desk at 928-776-2168. Please leave a detailed description of your problem, contact information (phone, email, username) and online course(s) in which you are currently enrolled.
+
+Library Services: Library services are available at the Prescott Campus and the Verde Valley Campus libraries. Both libraries are members of a countywide library network, which provides access to a wide range of information and resources including lap-top computers (i.e., you can check out a computer to use for a course long semester/session.  Possession of a College library card entitles students to access materials housed at member libraries. Instructors may place required course materials on reserve in the library or make assignments that require the use of library resources.
+
+Learning Resource Center: A Learning Resource Center is available at the Prescott and Verde Valley Campuses. These centers provide a variety of learning support for students including tutoring, adaptive computer, and equipment for students with disabilities, computer-assisted instruction, adult basic education, and English as a Second Language classes. On the Prescott Campus the Learning Center is in Building 1, room 207. (928-776-2087) On the Verde Campus the Learning Center is in Building G, room 108. (928-634-6562) 
+
+Please Note: This Syllabus is subject to change as deemed appropriate by the instructor. Necessary revisions will be in writing and posted in Canvas with fair prior notice.  
+
+                                             Assignments & Due Dates 
+
+Assignment – Points (All handled Through Canvas)	Due Date
+Week 1:
+
+Week 1 A - Getting Started with the PHP Course
+
+ Week 1 B - Setting Up Your PHP Programming Environment
+
+Week 1 C  - Chapter 1 - Getting Started with PHP
+
+1-26-2025
+Week 2: 
+
+Week 2A - Chapter 2 – Variables
+
+Week 2B - Chapter 3 - HTML Forms and PHP
+
+2-2-2025
+Week 3: 
+
+Week 3 A - Chapter 4 - Using Numbers
+
+Week 3 B - Chapter 5 - Using Strings
+
+2-9-2025
+Week 4: 
+
+Week 4 A - Chapter 6 - Control Structures
+
+Week 4 B - Chapter 7 - Using Arrays
+
+2-16-2025
+Week 5: 
+
+Week 5 A - Chapter 8 - Creating Web Applications
+
+Week 5 B - Chapter 9 - Cookies and Sessions
+
+2-23-2025
+Week 6: 
+
+Week 6 A - Chapter 10 - Creating Functions
+
+Week 6 B - Chapter 11 - Files and Directories
+
+3-2-2025
+Week 7
+
+Week 7 A - Chapter 12 - Intro to Databases
+
+Week 7 B - Chapter 13 - Putting it All Together
+
+3-9-2025
+Week 8: 
+
+Week 8 A - Final Project Check
+
+Week 8 B - Final Project Due By 3-14 @ 11:59pm
+
+Final Project Due  200 points 
+Last Day to Turn Any Work In is Friday March 14, 2025
+
+ 
+
+3-14-2025 1st 8 END
+
+*All assignments Due 
+
+By 3-14-2025
+
+Spring Break
+
+3-15 thru 3-23 
+
+ 
+
+Total Point Possible 2400 (subject to change with notice)
