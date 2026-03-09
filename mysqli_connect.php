@@ -1,18 +1,26 @@
-<?php
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Connect to MySQL</title>
+</head>
+<body>
+<?php // Script 12.1 - mysqli_connect.php
+/* This script connects to the MySQL database */
 
-$servername = "localhost";
-$username = "root";
-$password = "";
-$database = "myblog";
+// Attempt to connect to MySQL and print message:
+if ($dbc = mysqli_connect('localhost', 'username', 'password', 'myblog')) {
+	
+	print '<p>Successfully connected to the database!</p>';
+	
+	mysqli_close($dbc); // Close connection
 
-/* Create connection */
-$conn = new mysqli($servername, $username, $password, $database);
+} else {
+	
+	print '<p style="color: red;">Could not connect to database</p>';
 
-/* Check connection */
-if($conn -> connect_error) {
-	die("Connection failed:" . $conn -> connection_error);
 }
 
-echo "Connected successfully to myblog database";
-
 ?>
+</body>
+</html>
